@@ -1,4 +1,4 @@
-# Run from Julia_FRK directory
+# Run from FRK_julia directory
 
 # Load necessary packages
 using StatsBase
